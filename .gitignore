@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# PostgreSQL data
+postgres/data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
