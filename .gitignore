@@ -4,6 +4,7 @@
 # Virtual environment
 .venv/
 venv/
+.qa-venv/
 
 # PostgreSQL data
 postgres/data/

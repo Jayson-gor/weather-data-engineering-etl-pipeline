@@ -25,4 +25,4 @@ jobs:
 
       - name: Run QA tests
         working-directory: qa
-        run: pytest -c pytest.ini
+        run: pytest -c pytest.ini --ignore=../postgres/ -v
