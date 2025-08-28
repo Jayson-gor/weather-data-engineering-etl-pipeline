@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+requests
+requests-mock
+testcontainers[postgres]>=4.7.2
+psycopg2-binary
+apache-airflow==3.0.5
+# Optional dbt sanity
+# dbt-postgres==1.9.0
