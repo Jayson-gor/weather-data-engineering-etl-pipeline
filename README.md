@@ -103,9 +103,11 @@ weather-data-engineering-etl-pipeline/
 
 4. **Access the applications:**
    - **Airflow UI**: http://localhost:8000 (admin/admin)
+   ![alt text](<Screenshot 2025-09-05 103431.png>)
    - **Superset BI**: http://localhost:8088 (admin/admin)
    ![alt text](🌍-🌦️-kenya-weather-trends-dashboard-2025-09-05T07-27-55.255Z.jpg)
    - **pgAdmin**: http://localhost:5050 (credentials from .env)
+   ![alt text](<Screenshot 2025-09-05 103626.png>)
 
 5. **Trigger the pipeline:**
    - Navigate to Airflow UI
